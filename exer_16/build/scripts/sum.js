@@ -1,1 +1,0 @@
-function somar(o,r){return o+r}console.log(somar(30,50)),module.exports=somar;
